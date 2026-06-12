@@ -1,16 +1,14 @@
-## Hi there 👋
+![image](https://github.com/TheSmoothRere/TheSmoothRere/blob/main/banner.png)
 
-<!--
-**TheSmoothRere/TheSmoothRere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rere! 👋
 
-Here are some ideas to get you started:
+I'm a **Fullstack Developer**, mainly focused on the **Java Ecosystem**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Focus
+* **Backend:** Java (Spring Boot, JDA, Fabric API)
+* **Frontend:** React, Next.js, Astro, & Nuxt
+* **Environment:** Linux & Cloudflare Ecosystem
+
+### 🌐 Connect / Hire Me
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X81VQKAD)
