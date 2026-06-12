@@ -1,4 +1,4 @@
-![image](https://github.com/TheSmoothRere/TheSmoothRere/blob/main/banner.png)
+![philosophy-widget](https://github.dev/TheSmoothRere/TheSmoothRere/blob/main/philosophy-widget.png)
 
 # Hi, I'm Rere! 👋
 
