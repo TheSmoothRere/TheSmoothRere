@@ -1,4 +1,5 @@
 ![philosophy-widget](https://github.com/TheSmoothRere/TheSmoothRere/blob/main/assets/philosophy-widget.png)
+![about-me](https://github.com/TheSmoothRere/TheSmoothRere/blob/main/assets/about-me.png)
 
 # Hi, I'm Rere! 👋
 
